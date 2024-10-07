@@ -1,0 +1,8 @@
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+tldextract
+requests
+loguru
+newscatcher 

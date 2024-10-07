@@ -1,0 +1,3040 @@
+[
+    {
+        "title": "The Pandemic Small Business Boom Is Still Helping to Fuel the Economy",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The Pandemic Small Business Boom Is Still Helping to Fuel the Economy"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html",
+        "id": "https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html",
+        "guidislink": false,
+        "summary": "A record surge in new businesses has helped drive job growth, and could have longer-term benefits.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "A record surge in new businesses has helped drive job growth, and could have longer-term benefits."
+        },
+        "authors": [
+            {
+                "name": "Ben Casselman and Sydney Ember"
+            }
+        ],
+        "author": "Ben Casselman and Sydney Ember",
+        "author_detail": {
+            "name": "Ben Casselman and Sydney Ember"
+        },
+        "published": "Fri, 04 Oct 2024 09:03:31 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            3,
+            31,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Start-ups",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Entrepreneurship",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "United States Economy",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Small Business",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Quarantine (Life and Culture)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Coronavirus (2019-nCoV)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Labor and Jobs",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Careers and Professions",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Rotor Technologies",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Elevate EDU",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Reekon Tools",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1799",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/01/multimedia/NEW-BUSINESS-06-ctbj/NEW-BUSINESS-06-ctbj-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Ian MacLellan for The New York Times"
+            }
+        ],
+        "credit": "Ian MacLellan for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Hector Xu, center, founder of Rotor Technologies, with two fellow executives, Kris Frey, left, and Yiou He. The company converts helicopters to remotely piloted drones, an idea Mr. Xu had during the pandemic lockdowns."
+            }
+        ]
+    },
+    {
+        "title": "Union Agrees to Suspend Port Strike",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Union Agrees to Suspend Port Strike"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/03/business/economy/port-strike-suspended.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/03/business/economy/port-strike-suspended.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/03/business/economy/port-strike-suspended.html",
+        "id": "https://www.nytimes.com/2024/10/03/business/economy/port-strike-suspended.html",
+        "guidislink": false,
+        "summary": "The International Longshoremen’s Association received a new wage offer and will halt its walkout at East and Gulf Coast ports, which began Tuesday.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The International Longshoremen’s Association received a new wage offer and will halt its walkout at East and Gulf Coast ports, which began Tuesday."
+        },
+        "authors": [
+            {
+                "name": "Peter Eavis"
+            }
+        ],
+        "author": "Peter Eavis",
+        "author_detail": {
+            "name": "Peter Eavis"
+        },
+        "published": "Fri, 04 Oct 2024 03:04:38 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            3,
+            4,
+            38,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Strikes",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Ports",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "International Longshoremen's Assn",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "United States Maritime Alliance",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Organized Labor",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Wages and Salaries",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1799",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/03/multimedia/PORT-STRIKE-01-cvlb/PORT-STRIKE-01-cvlb-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Adam Kuehl for The New York Times"
+            }
+        ],
+        "credit": "Adam Kuehl for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Members of the International Longshoremen’s Association protesting at the Port of Savannah in Georgia on Tuesday."
+            }
+        ]
+    },
+    {
+        "title": "Jobs and Oil Prices Are Keeping Markets on Edge",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Jobs and Oil Prices Are Keeping Markets on Edge"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/business/dealbook/jobs-and-oil-prices-are-keeping-markets-on-edge.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/business/dealbook/jobs-and-oil-prices-are-keeping-markets-on-edge.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/business/dealbook/jobs-and-oil-prices-are-keeping-markets-on-edge.html",
+        "id": "https://www.nytimes.com/2024/10/04/business/dealbook/jobs-and-oil-prices-are-keeping-markets-on-edge.html",
+        "guidislink": false,
+        "summary": "Friday’s jobs report could bolster the view that the American economy is holding steady, but an oil price shock could undercut that sense of calm.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Friday’s jobs report could bolster the view that the American economy is holding steady, but an oil price shock could undercut that sense of calm."
+        },
+        "authors": [
+            {
+                "name": "Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+            }
+        ],
+        "author": "Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni",
+        "author_detail": {
+            "name": "Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+        },
+        "published": "Fri, 04 Oct 2024 11:33:51 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            11,
+            33,
+            51,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "internal-storyline-no",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Labor and Jobs",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Federal Reserve System",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Powell, Jerome H",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "United States Economy",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Oil (Petroleum) and Gasoline",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Israel",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Iran",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Biden, Joseph R Jr",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04db-newsletter-jobs-mcgt/04db-newsletter-jobs-mcgt-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "credit": "Scott McIntyre for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Economists expect today’s job report to maintain a sense of economic stability."
+            }
+        ]
+    },
+    {
+        "title": "Oil Prices Rise on Biden’s Offhand Remarks, and U.S. Ports Reopen",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Oil Prices Rise on Biden’s Offhand Remarks, and U.S. Ports Reopen"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/podcasts/biden-oil.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/podcasts/biden-oil.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/podcasts/biden-oil.html",
+        "id": "https://www.nytimes.com/2024/10/04/podcasts/biden-oil.html",
+        "guidislink": false,
+        "summary": "Plus, the top trends from fashion month.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Plus, the top trends from fashion month."
+        },
+        "authors": [
+            {
+                "name": "Tracy Mumford, Megan Twohey, Kate Lanphear, Ian Stewart and Jessica Metzger"
+            }
+        ],
+        "author": "Tracy Mumford, Megan Twohey, Kate Lanphear, Ian Stewart and Jessica Metzger",
+        "author_detail": {
+            "name": "Tracy Mumford, Megan Twohey, Kate Lanphear, Ian Stewart and Jessica Metzger"
+        },
+        "published": "Fri, 04 Oct 2024 10:18:57 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            10,
+            18,
+            57,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Prices (Fares, Fees and Rates)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Fashion and Apparel",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "United States Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Oil (Petroleum) and Gasoline",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Drug Abuse and Traffic",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Biden, Joseph R Jr",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Israel",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Middle East",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "United States",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04theheadlines-biden-oil-mzjb/04theheadlines-biden-oil-mzjb-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "credit": "Tierney L. Cross for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "The president’s casual disclosures underscored the power of his words — and how quickly they travel."
+            }
+        ]
+    },
+    {
+        "title": "Kamala Harris and the Influence of an Estranged Father Just Two Miles Away",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Kamala Harris and the Influence of an Estranged Father Just Two Miles Away"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/us/politics/kamala-harris-father.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/us/politics/kamala-harris-father.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/us/politics/kamala-harris-father.html",
+        "id": "https://www.nytimes.com/2024/10/04/us/politics/kamala-harris-father.html",
+        "guidislink": false,
+        "summary": "Donald J. Harris rarely speaks to his famous daughter, who lives nearby. But he helped shape who she became.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Donald J. Harris rarely speaks to his famous daughter, who lives nearby. But he helped shape who she became."
+        },
+        "authors": [
+            {
+                "name": "Robert Draper"
+            }
+        ],
+        "author": "Robert Draper",
+        "author_detail": {
+            "name": "Robert Draper"
+        },
+        "published": "Fri, 04 Oct 2024 09:03:04 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            3,
+            4,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Harris, Donald J",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Harris, Kamala D",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "United States Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Presidential Election of 2024",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Families and Family Life",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Gopalan, Shyamala",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Kingston (Jamaica)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "986",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/02/multimedia/00dc-harris-father-01-jcwh/00dc-harris-father-01-jcwh-mediumSquareAt3X.jpg",
+                "width": "987"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Kamala Harris campaign, via Reuters"
+            }
+        ],
+        "credit": "Kamala Harris campaign, via Reuters",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Dr. Harris with his daughter, Kamala Harris, in 1965."
+            }
+        ]
+    },
+    {
+        "title": "Four Weeks to Go",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Four Weeks to Go"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/podcasts/the-daily/presidential-election.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/podcasts/the-daily/presidential-election.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/podcasts/the-daily/presidential-election.html",
+        "id": "https://www.nytimes.com/2024/10/04/podcasts/the-daily/presidential-election.html",
+        "guidislink": false,
+        "summary": "With Kamala Harris and Donald Trump locked in the tightest of races, who will come out on top? Listen to our political round table on the 2024 election.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "With Kamala Harris and Donald Trump locked in the tightest of races, who will come out on top? Listen to our political round table on the 2024 election."
+        },
+        "authors": [
+            {
+                "name": "Michael Barbaro, Shane Goldmacher, Maggie Haberman, Nate Cohn, Olivia Natt, Mooj Zadie, Michael Simon Johnson, Brendan Klinkenberg, Paige Cowett, Rowan Niemisto and Alyssa Moxley"
+            }
+        ],
+        "author": "Michael Barbaro, Shane Goldmacher, Maggie Haberman, Nate Cohn, Olivia Natt, Mooj Zadie, Michael Simon Johnson, Brendan Klinkenberg, Paige Cowett, Rowan Niemisto and Alyssa Moxley",
+        "author_detail": {
+            "name": "Michael Barbaro, Shane Goldmacher, Maggie Haberman, Nate Cohn, Olivia Natt, Mooj Zadie, Michael Simon Johnson, Brendan Klinkenberg, Paige Cowett, Rowan Niemisto and Alyssa Moxley"
+        },
+        "published": "Fri, 04 Oct 2024 11:06:40 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            11,
+            6,
+            40,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Presidential Election of 2024",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Elections",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Polls and Public Opinion",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Trump, Donald J",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Harris, Kamala D",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Every Election Has Big Swings, Even in a Polarized Country. This One Will Too.",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Every Election Has Big Swings, Even in a Polarized Country. This One Will Too."
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/upshot/election-issues-swings-voters.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/upshot/election-issues-swings-voters.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/upshot/election-issues-swings-voters.html",
+        "id": "https://www.nytimes.com/2024/10/04/upshot/election-issues-swings-voters.html",
+        "guidislink": false,
+        "summary": "In just the last few years, any number of issues might have led people to reconsider their loyalties.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "In just the last few years, any number of issues might have led people to reconsider their loyalties."
+        },
+        "authors": [
+            {
+                "name": "Nate Cohn"
+            }
+        ],
+        "author": "Nate Cohn",
+        "author_detail": {
+            "name": "Nate Cohn"
+        },
+        "published": "Fri, 04 Oct 2024 11:55:44 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            11,
+            55,
+            44,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Presidential Election of 2024",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Polls and Public Opinion",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "United States Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Trump, Donald J",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Harris, Kamala D",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/02/multimedia/00up-difference2-pkmg/00up-difference2-pkmg-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Anna Moneymaker/The New York Times"
+            }
+        ],
+        "credit": "Anna Moneymaker/The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "A big Latino shift toward Donald Trump was one of the stories of the 2020 election."
+            }
+        ]
+    },
+    {
+        "title": "Obama, Democrats’ Elder Statesman, Will Stump for Harris in Final Election Push",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Obama, Democrats’ Elder Statesman, Will Stump for Harris in Final Election Push"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/us/politics/obama-harris-democrats.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/us/politics/obama-harris-democrats.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/us/politics/obama-harris-democrats.html",
+        "id": "https://www.nytimes.com/2024/10/04/us/politics/obama-harris-democrats.html",
+        "guidislink": false,
+        "summary": "Mr. Obama, the first Black president, had cast Vice President Kamala Harris as the inheritor of his political movement in a speech at the Democratic convention.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Mr. Obama, the first Black president, had cast Vice President Kamala Harris as the inheritor of his political movement in a speech at the Democratic convention."
+        },
+        "authors": [
+            {
+                "name": "Chris Cameron"
+            }
+        ],
+        "author": "Chris Cameron",
+        "author_detail": {
+            "name": "Chris Cameron"
+        },
+        "published": "Fri, 04 Oct 2024 09:06:41 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            6,
+            41,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Obama, Barack",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Harris, Kamala D",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Democratic Party",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Presidential Election of 2024",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "United States Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04election-live-obama1-mplc/04election-live-obama1-mplc-mediumSquareAt3X-v2.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Kent Nishimura for The New York Times"
+            }
+        ],
+        "credit": "Kent Nishimura for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Former President Barack Obama at the Democratic National Convention in Chicago in August."
+            }
+        ]
+    },
+    {
+        "title": "As America’s Marijuana Use Grows, So Do the Risks",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "As America’s Marijuana Use Grows, So Do the Risks"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html",
+        "id": "https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html",
+        "guidislink": false,
+        "summary": "The drug, legal in much of the country, is widely seen as nonaddictive and safe. For some users, these assumptions are dangerously wrong.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The drug, legal in much of the country, is widely seen as nonaddictive and safe. For some users, these assumptions are dangerously wrong."
+        },
+        "authors": [
+            {
+                "name": "Megan Twohey, Danielle Ivory and Carson Kessler"
+            }
+        ],
+        "author": "Megan Twohey, Danielle Ivory and Carson Kessler",
+        "author_detail": {
+            "name": "Megan Twohey, Danielle Ivory and Carson Kessler"
+        },
+        "published": "Fri, 04 Oct 2024 09:02:07 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            2,
+            7,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Marijuana",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Medicine and Health",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Regulation and Deregulation of Industry",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Research",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Drug Abuse and Traffic",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Nausea",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Deaths (Fatalities)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Mental Health and Disorders",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Addiction (Psychology)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Medical Marijuana",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "States (US)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Cannabinoid hyperemesis syndrome",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1799",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/09/25/multimedia/cannabis-promo/cannabis-promo-mediumSquareAt3X-v2.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Sonny Figueroa/The New York Times"
+            }
+        ],
+        "credit": "Sonny Figueroa/The New York Times"
+    },
+    {
+        "title": "Stories of Marijuana’s Little-Known Harms: ‘It Took Over Everything’",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Stories of Marijuana’s Little-Known Harms: ‘It Took Over Everything’"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/health/marijuana-weed-addiction-psychosis-vomiting.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/health/marijuana-weed-addiction-psychosis-vomiting.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/health/marijuana-weed-addiction-psychosis-vomiting.html",
+        "id": "https://www.nytimes.com/2024/10/04/health/marijuana-weed-addiction-psychosis-vomiting.html",
+        "guidislink": false,
+        "summary": "A growing number of marijuana users in the U.S. are experiencing severe health problems like these.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "A growing number of marijuana users in the U.S. are experiencing severe health problems like these."
+        },
+        "authors": [
+            {
+                "name": "Megan Twohey, Danielle Ivory and Carson Kessler"
+            }
+        ],
+        "author": "Megan Twohey, Danielle Ivory and Carson Kessler",
+        "author_detail": {
+            "name": "Megan Twohey, Danielle Ivory and Carson Kessler"
+        },
+        "published": "Fri, 04 Oct 2024 09:04:31 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            4,
+            31,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Marijuana",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Drug Abuse and Traffic",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Addiction (Psychology)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Nausea",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Content Type: Personal Profile",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1799",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/09/26/multimedia/00cannabis-portraits/00cannabis-portraits-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Sonny Figueroa/The New York Times"
+            }
+        ],
+        "credit": "Sonny Figueroa/The New York Times"
+    },
+    {
+        "title": "The War in Darkness",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The War in Darkness"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/world/europe/ukraine-war-children-cancer.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/world/europe/ukraine-war-children-cancer.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/world/europe/ukraine-war-children-cancer.html",
+        "id": "https://www.nytimes.com/2024/10/04/world/europe/ukraine-war-children-cancer.html",
+        "guidislink": false,
+        "summary": "Sonya Liakh was diagnosed with eye cancer at age 2. After Russia’s invasion of Ukraine disrupted her treatment, her family faced a desperate struggle.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Sonya Liakh was diagnosed with eye cancer at age 2. After Russia’s invasion of Ukraine disrupted her treatment, her family faced a desperate struggle."
+        },
+        "authors": [
+            {
+                "name": "Lynsey Addario"
+            }
+        ],
+        "author": "Lynsey Addario",
+        "author_detail": {
+            "name": "Lynsey Addario"
+        },
+        "published": "Fri, 04 Oct 2024 09:51:24 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            51,
+            24,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Children and Childhood",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Disabilities",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Chemotherapy",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Eyes and Eyesight",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Russian Invasion of Ukraine (2022)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Pain-Relieving Drugs",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Tumors",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Chernivtsi (Ukraine)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Kyiv (Ukraine)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Odessa (Ukraine)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Russia",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/09/18/world/xxukraine-sonya-add2/xxukraine-sonya-add2-mediumSquareAt3X-v5.jpg",
+                "width": "1800"
+            }
+        ],
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Sonya Liakh was 2 years old when she was diagnosed with a rare form of eye cancer."
+            }
+        ]
+    },
+    {
+        "title": "Europe Votes to Raise Tariffs on Electric Cars From China",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Europe Votes to Raise Tariffs on Electric Cars From China"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/business/europe-china-electric-vehicles-tariffs.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/business/europe-china-electric-vehicles-tariffs.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/business/europe-china-electric-vehicles-tariffs.html",
+        "id": "https://www.nytimes.com/2024/10/04/business/europe-china-electric-vehicles-tariffs.html",
+        "guidislink": false,
+        "summary": "European Union officials say the duties are meant to protect the region’s automakers from what they say are unfair trade practices in China.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "European Union officials say the duties are meant to protect the region’s automakers from what they say are unfair trade practices in China."
+        },
+        "authors": [
+            {
+                "name": "Melissa Eddy and Jenny Gross"
+            }
+        ],
+        "author": "Melissa Eddy and Jenny Gross",
+        "author_detail": {
+            "name": "Melissa Eddy and Jenny Gross"
+        },
+        "published": "Fri, 04 Oct 2024 11:58:04 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            11,
+            58,
+            4,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Protectionism (Trade)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Electric and Hybrid Vehicles",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "International Trade and World Market",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Customs (Tariff)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "European Commission",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "European Union",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "von der Leyen, Ursula",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04eu-china-tariffs1-tpml/04eu-china-tariffs1-tpml-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Tamas Paczai for The New York Times"
+            }
+        ],
+        "credit": "Tamas Paczai for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "A showroom in Budapest for electric vehicles made by BYD, a Chinese auto manufacturer."
+            }
+        ]
+    },
+    {
+        "title": "For Companies in China, Pulling Out of Xinjiang Poses ‘Messy Dilemma’",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "For Companies in China, Pulling Out of Xinjiang Poses ‘Messy Dilemma’"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/business/china-xinjiang.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/business/china-xinjiang.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/business/china-xinjiang.html",
+        "id": "https://www.nytimes.com/2024/10/04/business/china-xinjiang.html",
+        "guidislink": false,
+        "summary": "Beijing’s investigation of the parent of Calvin Klein and Tommy Hilfiger, which stopped buying goods from Xinjiang, has put global firms in a difficult position.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Beijing’s investigation of the parent of Calvin Klein and Tommy Hilfiger, which stopped buying goods from Xinjiang, has put global firms in a difficult position."
+        },
+        "authors": [
+            {
+                "name": "Keith Bradsher and Ana Swanson"
+            }
+        ],
+        "author": "Keith Bradsher and Ana Swanson",
+        "author_detail": {
+            "name": "Keith Bradsher and Ana Swanson"
+        },
+        "published": "Fri, 04 Oct 2024 04:00:13 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            4,
+            0,
+            13,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Embargoes and Sanctions",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Fashion and Apparel",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Forced Labor",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Boycotts",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "International Trade and World Market",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Human Rights and Human Rights Violations",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "American Chamber of Commerce in the People's Republic of China",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "BASF SE",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "European Union Chamber of Commerce in China",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "H & M Hennes & Mauritz AB",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "PVH Corp",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Volkswagen AG",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "China",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Xinjiang (China)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "United States",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/02/multimedia/00China-Xinjiang-01-fbpk/00China-Xinjiang-01-fbpk-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "CFOTO, via Reuters Connect"
+            }
+        ],
+        "credit": "CFOTO, via Reuters Connect",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "A worker at a textile facility in Xinjiang, which grows about a fifth of the world’s cotton."
+            }
+        ]
+    },
+    {
+        "title": "3 Former Officers Acquitted of Most Serious Charge in Tyre Nichols’s Death",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "3 Former Officers Acquitted of Most Serious Charge in Tyre Nichols’s Death"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/03/us/tyre-nichols-verdict.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/03/us/tyre-nichols-verdict.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/03/us/tyre-nichols-verdict.html",
+        "id": "https://www.nytimes.com/2024/10/03/us/tyre-nichols-verdict.html",
+        "guidislink": false,
+        "summary": "The former officers were found guilty of witness tampering but not of the charge that would have held them responsible for causing his death.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The former officers were found guilty of witness tampering but not of the charge that would have held them responsible for causing his death."
+        },
+        "authors": [
+            {
+                "name": "Emily Cochrane and Ben Stanley"
+            }
+        ],
+        "author": "Emily Cochrane and Ben Stanley",
+        "author_detail": {
+            "name": "Emily Cochrane and Ben Stanley"
+        },
+        "published": "Fri, 04 Oct 2024 01:35:06 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            1,
+            35,
+            6,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Nichols, Tyre (d 2023)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Police Brutality, Misconduct and Shootings",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/03/multimedia/03nat-memphis-verdict-gqhm/03nat-memphis-verdict-gqhm-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Brad J. Vest for The New York Times"
+            }
+        ],
+        "credit": "Brad J. Vest for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Tyre Nichols’s mother, RowVaughn Wells, center left, and his stepfather, Rodney Wells, center right, prayed with supporters in Memphis on Thursday."
+            }
+        ]
+    },
+    {
+        "title": "How an Uber Eats Order Unraveled a Couple’s Injury Lawsuit",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "How an Uber Eats Order Unraveled a Couple’s Injury Lawsuit"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html",
+        "id": "https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html",
+        "guidislink": false,
+        "summary": "A New Jersey couple sued Uber after a crash left them severely injured. An appeals court ruled that they had agreed to settle disputes out of court when they used the Uber Eats app.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "A New Jersey couple sued Uber after a crash left them severely injured. An appeals court ruled that they had agreed to settle disputes out of court when they used the Uber Eats app."
+        },
+        "authors": [
+            {
+                "name": "Lola Fadulu"
+            }
+        ],
+        "author": "Lola Fadulu",
+        "author_detail": {
+            "name": "Lola Fadulu"
+        },
+        "published": "Fri, 04 Oct 2024 07:00:14 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            7,
+            0,
+            14,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Decisions and Verdicts",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Arbitration, Conciliation and Mediation",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Suits and Litigation (Civil)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Mobile Applications",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Traffic Accidents and Safety",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Uber Eats",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Uber Technologies Inc",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "New Jersey",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Oliver Sacks Archive Heads to the New York Public Library",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Oliver Sacks Archive Heads to the New York Public Library"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/arts/oliver-sacks-archive-nypl.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/arts/oliver-sacks-archive-nypl.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/arts/oliver-sacks-archive-nypl.html",
+        "id": "https://www.nytimes.com/2024/10/04/arts/oliver-sacks-archive-nypl.html",
+        "guidislink": false,
+        "summary": "The voluminous papers of the celebrated neurologist include letters, notebooks, drafts and other traces of a man who couldn’t stop writing.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The voluminous papers of the celebrated neurologist include letters, notebooks, drafts and other traces of a man who couldn’t stop writing."
+        },
+        "authors": [
+            {
+                "name": "Jennifer Schuessler"
+            }
+        ],
+        "author": "Jennifer Schuessler",
+        "author_detail": {
+            "name": "Jennifer Schuessler"
+        },
+        "published": "Fri, 04 Oct 2024 09:04:01 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            4,
+            1,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Libraries and Librarians",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Books and Literature",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Writing and Writers",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Archives and Records",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Doctors",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Autism",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Sacks, Oliver",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Quinto, Zachary",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "New York Public Library",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1801",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/05/multimedia/04Sacks-Archive1-qczg/04Sacks-Archive1-qczg-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Eddie Hausner/The New York Times"
+            }
+        ],
+        "credit": "Eddie Hausner/The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Oliver Sacks in his study in 1985, the year his book “The Man Who Mistook His Wife for a Hat” became a surprise hit."
+            }
+        ]
+    },
+    {
+        "title": "The Year American Jews Woke Up",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The Year American Jews Woke Up"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/opinion/israel-jews-antisemitism.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/opinion/israel-jews-antisemitism.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/opinion/israel-jews-antisemitism.html",
+        "id": "https://www.nytimes.com/2024/10/04/opinion/israel-jews-antisemitism.html",
+        "guidislink": false,
+        "summary": "We need to recover our instinct for danger.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "We need to recover our instinct for danger."
+        },
+        "authors": [
+            {
+                "name": "Bret Stephens"
+            }
+        ],
+        "author": "Bret Stephens",
+        "author_detail": {
+            "name": "Bret Stephens"
+        },
+        "published": "Fri, 04 Oct 2024 11:54:04 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            11,
+            54,
+            4,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Jews and Judaism",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Israel-Gaza War (2023- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Anti-Semitism",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Zionism",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Pro-Palestinian Campus Protests (2023- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Colleges and Universities",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Discrimination",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Hate Crimes",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Minorities",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Terrorism",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Anti-Defamation League",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Hamas",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Ivy League",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "United States",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Israel",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/opinion/04Stephens/04Stephens-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Mark Peterson/Redux"
+            }
+        ],
+        "credit": "Mark Peterson/Redux"
+    },
+    {
+        "title": "Kamala Harris Is Walking a Tightrope That Few Women Survive",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Kamala Harris Is Walking a Tightrope That Few Women Survive"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/opinion/kamla-harris-double-standard-women.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/opinion/kamla-harris-double-standard-women.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/opinion/kamla-harris-double-standard-women.html",
+        "id": "https://www.nytimes.com/2024/10/04/opinion/kamla-harris-double-standard-women.html",
+        "guidislink": false,
+        "summary": "She’s strong. But she’s warm. That makes all the difference.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "She’s strong. But she’s warm. That makes all the difference."
+        },
+        "authors": [
+            {
+                "name": "Alison Fragale and Adam Grant"
+            }
+        ],
+        "author": "Alison Fragale and Adam Grant",
+        "author_detail": {
+            "name": "Alison Fragale and Adam Grant"
+        },
+        "published": "Fri, 04 Oct 2024 09:02:07 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            9,
+            2,
+            7,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Presidential Election of 2024",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "United States Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Women and Girls",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Vice Presidents and Vice Presidency (US)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Psychology and Psychologists",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Discrimination",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Anger (Emotion)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Polls and Public Opinion",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Harris, Kamala D",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "In Death Penalty Cases, Courts Should Listen When Prosecutors Admit They Were Wrong",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "In Death Penalty Cases, Courts Should Listen When Prosecutors Admit They Were Wrong"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/opinion/courts-execution-mistakes.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/opinion/courts-execution-mistakes.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/opinion/courts-execution-mistakes.html",
+        "id": "https://www.nytimes.com/2024/10/04/opinion/courts-execution-mistakes.html",
+        "guidislink": false,
+        "summary": "When prosecutors admit they were wrong in a death penalty case, courts should listen.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "When prosecutors admit they were wrong in a death penalty case, courts should listen."
+        },
+        "authors": [
+            {
+                "name": "Kenneth Cuccinelli"
+            }
+        ],
+        "author": "Kenneth Cuccinelli",
+        "author_detail": {
+            "name": "Kenneth Cuccinelli"
+        },
+        "published": "Fri, 04 Oct 2024 11:10:36 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            11,
+            10,
+            36,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "False Arrests, Convictions and Imprisonments",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Decisions and Verdicts",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Capital Punishment",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Prosecutorial Misconduct",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Criminal Justice",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Murders, Attempted Murders and Homicides",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Courts and the Judiciary",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Constitution (US)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Supreme Court (US)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Drummond, Gentner",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Glossip, Richard Eugene (1963- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Oklahoma",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/opinion/04cuccinelli/04cuccinelli-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Laura Lannes"
+            }
+        ],
+        "credit": "Laura Lannes"
+    },
+    {
+        "title": "A Recipe for a Striving America",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "A Recipe for a Striving America"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/03/opinion/industry-policy-manufacturing.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/03/opinion/industry-policy-manufacturing.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/03/opinion/industry-policy-manufacturing.html",
+        "id": "https://www.nytimes.com/2024/10/03/opinion/industry-policy-manufacturing.html",
+        "guidislink": false,
+        "summary": "The question is not whether to do industrial policy, but how.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The question is not whether to do industrial policy, but how."
+        },
+        "authors": [
+            {
+                "name": "David Brooks"
+            }
+        ],
+        "author": "David Brooks",
+        "author_detail": {
+            "name": "David Brooks"
+        },
+        "published": "Thu, 03 Oct 2024 23:00:08 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            3,
+            23,
+            0,
+            8,
+            3,
+            277,
+            0
+        ],
+        "tags": [
+            {
+                "term": "United States Economy",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Biden, Joseph R Jr",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Inflation Reduction Act of 2022",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Factories and Manufacturing",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Labor and Jobs",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Economic Conditions and Trends",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Infrastructure (Public Works)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1685",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/05/multimedia/26brooks1-jqmh/26brooks1-jqmh-mediumSquareAt3X.jpg",
+                "width": "1684"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Philip Cheung for The New York Times"
+            }
+        ],
+        "credit": "Philip Cheung for The New York Times"
+    },
+    {
+        "title": "Why the Biden Administration Is Shifting on Immigration",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Why the Biden Administration Is Shifting on Immigration"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/briefing/biden-immigration-election.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/briefing/biden-immigration-election.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/briefing/biden-immigration-election.html",
+        "id": "https://www.nytimes.com/2024/10/04/briefing/biden-immigration-election.html",
+        "guidislink": false,
+        "summary": "We explain the Biden administration’s shift on immigration.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "We explain the Biden administration’s shift on immigration."
+        },
+        "authors": [
+            {
+                "name": "Hamed Aleaziz"
+            }
+        ],
+        "author": "Hamed Aleaziz",
+        "author_detail": {
+            "name": "Hamed Aleaziz"
+        },
+        "published": "Fri, 04 Oct 2024 10:36:58 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            10,
+            36,
+            58,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "internal-storyline-no",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Immigration and Emigration",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Biden, Joseph R Jr",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04themorning-nl-border02-lhcg/04themorning-nl-02-lhcg-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Pool photo by Jae C. Hong"
+            }
+        ],
+        "credit": "Pool photo by Jae C. Hong",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "The U.S.-Mexico border."
+            }
+        ]
+    },
+    {
+        "title": "Late Night Heaps Scorn on Trump’s Latest Defense",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Late Night Heaps Scorn on Trump’s Latest Defense"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/arts/television/late-night-trump-filing.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/arts/television/late-night-trump-filing.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/arts/television/late-night-trump-filing.html",
+        "id": "https://www.nytimes.com/2024/10/04/arts/television/late-night-trump-filing.html",
+        "guidislink": false,
+        "summary": "Jimmy Kimmel said Donald Trump was “partially right” in denying interference in the 2020 election: “He tried to rig the election and failed to rig the election.’",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Jimmy Kimmel said Donald Trump was “partially right” in denying interference in the 2020 election: “He tried to rig the election and failed to rig the election.’"
+        },
+        "authors": [
+            {
+                "name": "Trish Bendix"
+            }
+        ],
+        "author": "Trish Bendix",
+        "author_detail": {
+            "name": "Trish Bendix"
+        },
+        "published": "Fri, 04 Oct 2024 07:12:03 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            7,
+            12,
+            3,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Television",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "The Daily Show with Trevor Noah (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            },
+            {
+                "term": "Late Show with Stephen Colbert (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            },
+            {
+                "term": "Late Night with Seth Meyers (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            },
+            {
+                "term": "Colbert, Stephen",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Kimmel, Jimmy",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Jimmy Kimmel Live (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            },
+            {
+                "term": "Fallon, Jimmy",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "The Tonight Show (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            },
+            {
+                "term": "Kosta, Michael (1979- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Meyers, Seth",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ]
+    },
+    {
+        "title": "Los Angeles District Attorney Says He Is Reviewing Menendez Brothers Case",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Los Angeles District Attorney Says He Is Reviewing Menendez Brothers Case"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/03/arts/menendez-brothers-district-attorney-los-angeles.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/03/arts/menendez-brothers-district-attorney-los-angeles.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/03/arts/menendez-brothers-district-attorney-los-angeles.html",
+        "id": "https://www.nytimes.com/2024/10/03/arts/menendez-brothers-district-attorney-los-angeles.html",
+        "guidislink": false,
+        "summary": "Interest in the Menendez brothers has intensified after the release of a new Netflix drama about the case. A separate documentary is forthcoming.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Interest in the Menendez brothers has intensified after the release of a new Netflix drama about the case. A separate documentary is forthcoming."
+        },
+        "authors": [
+            {
+                "name": "Tim Arango and Matt Stevens"
+            }
+        ],
+        "author": "Tim Arango and Matt Stevens",
+        "author_detail": {
+            "name": "Tim Arango and Matt Stevens"
+        },
+        "published": "Fri, 04 Oct 2024 01:28:34 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            1,
+            28,
+            34,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Sentences (Criminal)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Decisions and Verdicts",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Gascon, George",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Los Angeles (Calif)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Beverly Hills (Calif)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            },
+            {
+                "term": "Menendez, Erik",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Menendez, Lyle",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Monsters: The Lyle and Erik Menendez Story (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            },
+            {
+                "term": "Law & Order: True Crime - The Menendez Murders (TV Program)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1802",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/03/multimedia/03cl-Menendez-bjzt/03cl-Menendez-bjzt-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Nick Ut/Associated Press"
+            }
+        ],
+        "credit": "Nick Ut/Associated Press",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Lyle and Erik Menendez in court in Santa Monica, Calif., in 1990."
+            }
+        ]
+    },
+    {
+        "title": "The U.K. Has a More Working-Class Cabinet. It’s Still Seen as Out of Touch.",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The U.K. Has a More Working-Class Cabinet. It’s Still Seen as Out of Touch."
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/world/europe/uk-labour-cabinet-working-class-freebies.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/world/europe/uk-labour-cabinet-working-class-freebies.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/world/europe/uk-labour-cabinet-working-class-freebies.html",
+        "id": "https://www.nytimes.com/2024/10/04/world/europe/uk-labour-cabinet-working-class-freebies.html",
+        "guidislink": false,
+        "summary": "Prime Minister Keir Starmer’s top team contains more lawmakers from poor backgrounds, and fewer from elite schools, than any in recent memory. Voters haven’t noticed.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Prime Minister Keir Starmer’s top team contains more lawmakers from poor backgrounds, and fewer from elite schools, than any in recent memory. Voters haven’t noticed."
+        },
+        "authors": [
+            {
+                "name": "Stephen Castle"
+            }
+        ],
+        "author": "Stephen Castle",
+        "author_detail": {
+            "name": "Stephen Castle"
+        },
+        "published": "Fri, 04 Oct 2024 10:38:54 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            10,
+            38,
+            54,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Polls and Public Opinion",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Children and Childhood",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Income Inequality",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Labour Party (Great Britain)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Rayner, Angela (1980- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Starmer, Keir",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Lammy, David",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Fielding, Steven (1961- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Great Britain",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1801",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04uk-labour-class-01-mwcl/04uk-labour-class-01-mwcl-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Temilade Adelaja/Reuters"
+            }
+        ],
+        "credit": "Temilade Adelaja/Reuters",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Deputy Prime Minister Angela Rayner, right, and other British cabinet members at the Labour Party’s annual conference last month. She was raised in public housing and left school at 16."
+            }
+        ]
+    },
+    {
+        "title": "Jack Smith’s Filing in Trump Jan. 6 Case Highlights Key Players",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Jack Smith’s Filing in Trump Jan. 6 Case Highlights Key Players"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/03/us/politics/trump-jan-6-jack-smith-brief.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/03/us/politics/trump-jan-6-jack-smith-brief.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/03/us/politics/trump-jan-6-jack-smith-brief.html",
+        "id": "https://www.nytimes.com/2024/10/03/us/politics/trump-jan-6-jack-smith-brief.html",
+        "guidislink": false,
+        "summary": "Donald Trump is the only defendant in the special counsel’s case that charges him with a plot to remain in power after his 2020 loss. But a newly unsealed brief provides fresh details about many other figures.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Donald Trump is the only defendant in the special counsel’s case that charges him with a plot to remain in power after his 2020 loss. But a newly unsealed brief provides fresh details about many other figures."
+        },
+        "authors": [
+            {
+                "name": "Alan Feuer and Charlie Savage"
+            }
+        ],
+        "author": "Alan Feuer and Charlie Savage",
+        "author_detail": {
+            "name": "Alan Feuer and Charlie Savage"
+        },
+        "published": "Fri, 04 Oct 2024 03:39:19 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            3,
+            39,
+            19,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Federal Criminal Case Against Trump (2020 Election Case)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "United States Politics and Government",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Presidential Election of 2024",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Presidential Election of 2020",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "House Select Committee to Investigate the January 6th Attack",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Justice Department",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Trump, Donald J",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Smith, Jack (Attorney)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Bannon, Stephen K",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Herschmann, Eric D",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Chutkan, Tanya S",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/03/multimedia/03dc-jan6-01-ltgq/03dc-jan6-01-ltgq-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Eze Amos for The New York Times"
+            }
+        ],
+        "credit": "Eze Amos for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "According to the filing, Stephen K. Bannon appears to have played a much bigger role in President Donald J. Trump’s attempts to retain the White House in 2020."
+            }
+        ]
+    },
+    {
+        "title": "E.U. Court Rules Some Rules for Soccer’s Transfer Market Are Illegal",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "E.U. Court Rules Some Rules for Soccer’s Transfer Market Are Illegal"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/04/world/europe/transfer-market-rules-illegal.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/04/world/europe/transfer-market-rules-illegal.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/04/world/europe/transfer-market-rules-illegal.html",
+        "id": "https://www.nytimes.com/2024/10/04/world/europe/transfer-market-rules-illegal.html",
+        "guidislink": false,
+        "summary": "A decision could force soccer’s governing body to rewrite the regulations that govern the sport’s multibillion-dollar transfer market.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "A decision could force soccer’s governing body to rewrite the regulations that govern the sport’s multibillion-dollar transfer market."
+        },
+        "authors": [
+            {
+                "name": "Tariq Panja"
+            }
+        ],
+        "author": "Tariq Panja",
+        "author_detail": {
+            "name": "Tariq Panja"
+        },
+        "published": "Fri, 04 Oct 2024 10:43:49 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            4,
+            10,
+            43,
+            49,
+            4,
+            278,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Soccer",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Trades (Sports)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "International Federation of Association Football (FIFA)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "European Court of Justice",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Lassana Diarra (soccer player)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1800",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/world/04soccer-transfer-diarra/04soccer-transfer-diarra-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Charly Triballeau/Agence France-Presse — Getty Images"
+            }
+        ],
+        "credit": "Charly Triballeau/Agence France-Presse — Getty Images",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Lassana Diarra, right, went to court after being fined millions of dollars for walking away from his contract and trying to join a new club."
+            }
+        ]
+    },
+    {
+        "title": "Artist Lee Bul Ruffles the Met’s Staid Niches",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "Artist Lee Bul Ruffles the Met’s Staid Niches"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/10/03/arts/design/lee-bul-sculptures-metropolitan-museum.html"
+            },
+            {
+                "href": "https://www.nytimes.com/2024/10/03/arts/design/lee-bul-sculptures-metropolitan-museum.html",
+                "rel": "standout",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/10/03/arts/design/lee-bul-sculptures-metropolitan-museum.html",
+        "id": "https://www.nytimes.com/2024/10/03/arts/design/lee-bul-sculptures-metropolitan-museum.html",
+        "guidislink": false,
+        "summary": "The artist for the fifth Facade Commission created Cubist sculptures that look forward and backward. The question is what more the Met can do going forward.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "value": "The artist for the fifth Facade Commission created Cubist sculptures that look forward and backward. The question is what more the Met can do going forward."
+        },
+        "authors": [
+            {
+                "name": "Martha Schwendener"
+            }
+        ],
+        "author": "Martha Schwendener",
+        "author_detail": {
+            "name": "Martha Schwendener"
+        },
+        "published": "Thu, 03 Oct 2024 21:15:51 +0000",
+        "published_parsed": [
+            2024,
+            10,
+            3,
+            21,
+            15,
+            51,
+            3,
+            277,
+            0
+        ],
+        "tags": [
+            {
+                "term": "Art",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Museums",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/des",
+                "label": null
+            },
+            {
+                "term": "Metropolitan Museum of Art",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+                "label": null
+            },
+            {
+                "term": "Lee Bul (1964- )",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+                "label": null
+            },
+            {
+                "term": "Fifth Avenue (Manhattan, NY)",
+                "scheme": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+                "label": null
+            }
+        ],
+        "media_content": [
+            {
+                "height": "1799",
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/10/04/multimedia/03lee-bul1a-wphl/03lee-bul1a-wphl-mediumSquareAt3X.jpg",
+                "width": "1800"
+            }
+        ],
+        "media_credit": [
+            {
+                "content": "Lucia Vazquez for The New York Times"
+            }
+        ],
+        "credit": "Lucia Vazquez for The New York Times",
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "value": "Lee Bul in front of her artwork “Long Tail Halo: CTCS #1” at the Metropolitan Museum of Art."
+            }
+        ]
+    }
+]

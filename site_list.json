@@ -1,0 +1,366 @@
+[
+    {
+        "Chinese": "盖世汽车资讯",
+        "English": "Gasgoo",
+        "Category": "Website",
+        "URL": "https://auto.gasgoo.com/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "中国汽车工业协会",
+        "English": "CAAM",
+        "Category": "Website",
+        "URL": "http://www.caam.org.cn/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "中国汽车工程学会",
+        "English": "SAE",
+        "Category": "Website",
+        "URL": "https://www.sae-china.org/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "中国汽车流通协会",
+        "English": "CADA",
+        "Category": "Website",
+        "URL": "http://www.cada.cn/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "汽车之家",
+        "English": "Autohome",
+        "Category": "Website",
+        "URL": "https://www.autohome.com.cn/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "懂车帝",
+        "English": "Dcar app",
+        "Category": "Social",
+        "URL": "懂车帝",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "车图腾",
+        "English": "",
+        "Category": "Social",
+        "URL": "车图腾",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "车云",
+        "English": "Cheyun",
+        "Category": "Social",
+        "URL": "车云",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "AI汽车制造业",
+        "English": "Automobil Industrie",
+        "Category": "Social",
+        "URL": "AI汽车制造业",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "汽车行业关注",
+        "English": "",
+        "Category": "Social",
+        "URL": "汽车行业关注",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "方得网",
+        "English": "Find800",
+        "Category": "Website",
+        "URL": "https://www.find800.cn/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "汽车制造中文版",
+        "English": "Car Manufacture",
+        "Category": "Social",
+        "URL": "汽车制造中文版",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "中汽协会数据",
+        "English": "CAAM Data",
+        "Category": "Social",
+        "URL": "中汽协会数据",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "乘联分会",
+        "English": "CPCA",
+        "Category": "Social",
+        "URL": "乘联分会",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "IHS",
+        "English": "IHS",
+        "Category": "Website",
+        "URL": "https://www.spglobal.com/en",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "Markline",
+        "English": "Markline",
+        "Category": "Website",
+        "URL": "https://www.marklines.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "东风汽车公司",
+        "English": "DongfengMotorCorporation",
+        "Category": "Website",
+        "URL": "http://www.dongfeng-auto.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "英菲尼迪",
+        "English": "InfinitiMotorCompany,Ltd.",
+        "Category": "Website",
+        "URL": "https://www.infiniti.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "日产汽车公司",
+        "English": "NissanMotorCo.,Ltd.",
+        "Category": "Website",
+        "URL": "https://www.nissan-global.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "启辰",
+        "English": "Venucia",
+        "Category": "Website",
+        "URL": "http://www.venucia.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "道奇",
+        "English": "Dodge",
+        "Category": "Website",
+        "URL": "https://www.dodge.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "菲亚特克莱斯勒汽车公司",
+        "English": "FiatChryslerAutomobilesN.V.",
+        "Category": "Website",
+        "URL": "https://www.stellantis.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "菲亚特",
+        "English": "FiatAutomobilesS.p.A.",
+        "Category": "Website",
+        "URL": "https://www.fiat.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "吉普",
+        "English": "Jeep",
+        "Category": "Website",
+        "URL": "https://www.jeep.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "标致",
+        "English": "PeugeotS.A.",
+        "Category": "Website",
+        "URL": "https://www.peugeot.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "RAM",
+        "English": "RAMTrucks",
+        "Category": "Website",
+        "URL": "https://www.ramtrucks.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "吉利汽车",
+        "English": "GeelyAutomobileHoldingsLimited",
+        "Category": "Website",
+        "URL": "http://www.geely.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "路特斯",
+        "English": "LotusCarsLimited",
+        "Category": "Website",
+        "URL": "https://www.lotuscars.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "领克",
+        "English": "Lynk&Co",
+        "Category": "Website",
+        "URL": "https://www.lynkco.com.cn",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "极氪",
+        "English": "Zeekr",
+        "Category": "Website",
+        "URL": "https://www.zeekrlife.com/home",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "阿维塔汽车",
+        "English": "AvatrTechnology",
+        "Category": "Website",
+        "URL": "https://www.avatr.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "长安汽车",
+        "English": "ChanganAutomobileCo.,Ltd.",
+        "Category": "Website",
+        "URL": "http://www.changan.com.cn",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "宝马",
+        "English": "BayerischeMotorenWerkeAG,BMWAG",
+        "Category": "Website",
+        "URL": "https://www.bmw.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "蔚来汽车",
+        "English": "NIOInc.",
+        "Category": "Website",
+        "URL": "https://www.nio.cn",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "一汽集团",
+        "English": "FAWGroupCorporation",
+        "Category": "Website",
+        "URL": "http://www.faw.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "奥迪",
+        "English": "AudiAG",
+        "Category": "Website",
+        "URL": "https://www.audi.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "大众汽车",
+        "English": "VolkswagenAG",
+        "Category": "Website",
+        "URL": "https://www.volkswagen.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "奇瑞汽车",
+        "English": "CheryAutomobileCo.,Ltd.",
+        "Category": "Website",
+        "URL": "http://www.chery.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "广汽集团",
+        "English": "GACGroup",
+        "Category": "Website",
+        "URL": "https://www.gac.com.cn/cn/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "福特",
+        "English": "FordMotorCompany",
+        "Category": "Website",
+        "URL": "https://www.ford.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "林肯",
+        "English": "LincolnMotorCompany",
+        "Category": "Website",
+        "URL": "https://www.lincoln.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "别克",
+        "English": "Buick",
+        "Category": "Website",
+        "URL": "https://www.buick.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "凯迪拉克",
+        "English": "Cadillac",
+        "Category": "Website",
+        "URL": "https://www.cadillac.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "GMC",
+        "English": "GMC",
+        "Category": "Website",
+        "URL": "https://www.gmc.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "长城汽车",
+        "English": "GreatWallMotorCompanyLimited",
+        "Category": "Website",
+        "URL": "http://www.gwm.com.cn",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "哈弗",
+        "English": "Haval",
+        "Category": "Website",
+        "URL": "http://www.haval.com.cn",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "福田汽车",
+        "English": "FotonMotorGroup",
+        "Category": "Website",
+        "URL": "http://www.foton.com.cn",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "名爵",
+        "English": "MGMotor",
+        "Category": "Website",
+        "URL": "https://www.saicmg.com/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "荣威",
+        "English": "Roewe",
+        "Category": "Website",
+        "URL": "https://www.roewe.com.cn/",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "上汽集团",
+        "English": "SAICMotorCorporationLimited",
+        "Category": "Website",
+        "URL": "http://www.saicmotor.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "戴姆勒股份公司",
+        "English": "Mercedes-BenzGroupAG",
+        "Category": "Website",
+        "URL": "https://www.mercedes-benz.com",
+        "RSS_URL": ""
+    },
+    {
+        "Chinese": "特斯拉",
+        "English": "Tesla,Inc.",
+        "Category": "Website",
+        "URL": "https://www.tesla.com",
+        "RSS_URL": ""
+    }
+  ]
